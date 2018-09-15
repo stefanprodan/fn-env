@@ -1,3 +1,3 @@
 # fn-env
 
-OpenFaaS env function
+OpenFaaS function that prints the env vars
